@@ -1,7 +1,5 @@
 function Home() {
-  return (
-    <h1>Amanda Bonamini, eu te amo muitão, se gostou da uma risadinha!</h1>
-  );
+  return <h1>Testando o site no curso.dev</h1>;
 }
 
 export default Home;
